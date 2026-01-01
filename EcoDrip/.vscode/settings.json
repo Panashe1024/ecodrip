@@ -1,0 +1,11 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "cSpell.words": [
+        "allprojects",
+        "dists",
+        "ecodrip",
+        "notif",
+        "Subproject",
+        "subprojects"
+    ]
+}
